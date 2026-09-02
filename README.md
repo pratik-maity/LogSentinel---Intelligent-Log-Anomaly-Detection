@@ -42,7 +42,7 @@ Replace your current `README.md` with this:
 
 ## 🚀 Live Demo
 
-### 🌐 [Launch LogSentinel](https://logsentinel---intelligent-log-anomaly-detection-hdrydjzpqyejam.streamlit.app/)
+### 🌐 [Launch LogSentinel](https://logsentinel---intelligent-log-anomaly-detection-app-bypratik.streamlit.app/)
 
 Upload a compatible structured log CSV and let LogSentinel analyze the event sequence for anomalous behavior.
 
